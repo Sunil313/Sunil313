@@ -1,5 +1,26 @@
 # 💫 About Me:
-I’m a Data Engineer with 5+ years of experience building scalable, cloud-native data platforms across Azure and AWS ecosystems, primarily within regulated financial environments in the UK.<br><br>My core expertise lies in designing production-grade ETL/ELT pipelines, implementing Medallion architecture using Databricks and Delta Lake, building dbt-driven transformation layers, and enabling analytics-ready data platforms with strong governance and performance optimization standards.<br><br>Beyond data engineering, I actively work at the intersection of Machine Learning and Explainable AI. My research interests focus on AI applications in financial risk management, particularly around model transparency, regulatory compliance, and responsible AI in high-stakes environments. I am currently involved in research exploring Explainable AI frameworks for risk-sensitive domains.<br><br>🎓 Certifications<br><br>AWS Certified Machine Learning (Specialty)<br><br>Microsoft Azure AI Engineer Associate<br><br>Azure Data Engineer Associate<br><br>Databricks Data Engineer<br><br>Microsoft Fabric / Azure Data Certifications<br><br>🧠 AI & ML Focus Areas<br><br>End-to-end ML pipeline design<br><br>Feature engineering at scale<br><br>Model monitoring & explainability<br><br>Cloud-based ML deployment (AWS & Azure)<br><br>Responsible AI & regulatory-aware systems<br><br>⚙️ Technical Stack<br><br>Cloud: Azure, AWS<br>Data: Databricks, Delta Lake, Snowflake, Synapse, ADF<br>Transformation: dbt, SQL, PySpark<br>ML/AI: Python, Scikit-learn, ML workflows, Explainability techniques<br>DevOps: CI/CD, Git, Infrastructure-as-Code fundamentals<br><br>On this GitHub, you’ll find:<br><br>End-to-end data engineering projects<br><br>dbt transformation frameworks<br><br>Cloud-native architectures<br><br>ML experimentation pipelines<br><br>Research-oriented AI explorations<br><br>I focus on building systems that are scalable, maintainable, compliant, and production-ready — not just technically functional.<br><br>Always open to collaboration on advanced data engineering, AI research, and cloud-scale ML projects.
+# Hi, I'm Sunil Kumar Reddy 👋
+
+Data & AI Platform Engineer focused on building scalable cloud-native analytics systems, explainable AI frameworks, and enterprise data platforms for regulated industries.
+
+My work spans AWS, Azure, Databricks, dbt, Spark, and modern ML infrastructure, with a strong focus on financial services, cloud data engineering, governance-oriented analytics, and reliable large-scale processing systems.
+
+I enjoy designing practical architectures that balance scalability, auditability, performance, and operational simplicity in real-world enterprise environments.
+
+Alongside my professional work, I actively contribute to the wider technology ecosystem through technical writing, startup mentorship, speaking engagements, and knowledge sharing focused on cloud analytics, responsible AI, and modern data engineering.
+
+## Areas of Interest
+- Cloud Data Platforms
+- Explainable AI (XAI)
+- Analytics Engineering
+- AI Governance
+- Distributed Systems
+- Financial Risk Analytics
+- MLOps & ML Infrastructure
+- Enterprise Data Architecture
+
+## Tech Stack
+AWS • Azure • Databricks • dbt • Spark • Python • SQL • MLflow • Airflow • Terraform
 
 
 ## 🌐 Socials:
